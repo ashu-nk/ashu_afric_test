@@ -1,5 +1,9 @@
 # vue 3 test
 
+ to install package  run ==>>  npm install
+
+ to run project  ==>> npm run dev -- --force    
+
 Default Test Account:
 
 Username: test
