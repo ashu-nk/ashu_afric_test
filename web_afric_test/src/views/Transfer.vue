@@ -177,7 +177,7 @@
         );
         
         setTimeout(() => {
-          router.push('/dashboard');
+          router.push('/myDashboard');
         }, 2000);
         
       } else {
